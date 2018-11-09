@@ -1,0 +1,134 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Freddie Mercury",
+      "departmentId": 3,
+      "computerId": 4
+    },
+    {
+      "id": 2,
+      "name": "Mona Myrtle",
+      "departmentId": 3,
+      "computerId": 1
+    },
+    {
+      "id": 3,
+      "name": "Donnie Darko",
+      "departmentId": 2,
+      "computerId": 5
+    },
+    {
+      "id": 4,
+      "name": "Maurice Moss",
+      "departmentId": 1,
+      "computerId": 2
+    },
+    {
+      "id": 5,
+      "name": "John Snow",
+      "departmentId": 3,
+      "computerId": 7
+    },
+    {
+      "id": 6,
+      "name": "Elaine Benes",
+      "departmentId": 1,
+      "computerId": 6
+    },
+    {
+      "id": 7,
+      "name": "Scooby 'Dooby' Doo",
+      "departmentId": 2,
+      "computerId": 8
+    },
+    {
+      "id": 8,
+      "name": "Sting",
+      "departmentId": 1,
+      "computerId": 9
+    },
+    {
+      "id": 9,
+      "name": "Marvin Gardens",
+      "departmentId": 3,
+      "computerId": 10
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "sales"
+    },
+    {
+      "id": 2,
+      "name": "department of rendundancy"
+    },
+    {
+      "id": 3,
+      "name": "human resources"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "name": "Pineapple Dolebook Pro",
+      "serial_number": 76959389939,
+      "date_purchased": "03/23/2013"
+    },
+    {
+      "id": 2,
+      "name": "Dull Insipidon",
+      "serial_number": 38993967789,
+      "date_purchased": "08/23/2015"
+    },
+    {
+      "id": 3,
+      "name": "Pineapple Dolebook Pro",
+      "serial_number": 567890345,
+      "date_purchased": "05/25/2015"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple iDole",
+      "serial_number": 12345676543,
+      "date_purchased": "03/23/2013"
+    },
+    {
+      "id": 5,
+      "name": "Alienwhere MegaBrick 2000",
+      "serial_number": 4675456790,
+      "date_purchased": "10/31/2016"
+    },
+    {
+      "id": 6,
+      "name": "Pineapple Dolebook Pro",
+      "serial_number": 5456789939,
+      "date_purchased": "03/23/2012"
+    },
+    {
+      "id": 7,
+      "name": "Commodore 64",
+      "serial_number": 5,
+      "date_purchased": "03/23/1984"
+    },
+    {
+      "id": 8,
+      "name": "Lenohno Stinkpad",
+      "serial_number": 467898754,
+      "date_purchased": "03/23/2018"
+    },
+    {
+      "id": 9,
+      "name": "Amazon Firestick",
+      "serial_number": 876545678900,
+      "date_purchased": "12/25/2013"
+    },
+    {
+      "id": 10,
+      "name": "Abacus",
+      "serial_number": null,
+      "date_purchased": "03/23/1200"
+    }
+  ]
+}
